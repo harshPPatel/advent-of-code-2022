@@ -1,0 +1,3 @@
+{
+  "rust-analyzer.linkedProjects": ["./Aoc_01_Calories_Counting/Cargo.toml", "./Aoc_01_Calories_Counting/Cargo.toml"]
+}
